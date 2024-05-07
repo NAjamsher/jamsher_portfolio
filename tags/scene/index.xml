@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Jamsher</title>
+    <link>http://localhost:1313/tags/scene/</link>
+    <description>Recent content in Scene on Jamsher</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project 2-Mapping U.S. Airports: An Interactive Exploration</title>
+      <link>http://localhost:1313/post/project-2/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-2/</guid>
+      <description>This project is an interactive data visualization that displays the locations of airports across the United States on a geographical map. It leverages the Altair library in Python and the Vega datasets to create a visually appealing and informative representation of airport locations within the country. The visualization consists of two main components: a background map and a layer of airport markers. The background map is generated using the geographical data for the states of the United States from the Vega datasets.</description>
+    </item>
+  </channel>
+</rss>

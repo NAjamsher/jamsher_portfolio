@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science Portfolio on Jamsher</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Data science Portfolio on Jamsher</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project 1: Interactive Car Fuel Efficiency Visualization</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Wed, 10 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>This project is an interactive data visualization that explores the relationship between car origin and fuel efficiency, measured in miles per gallon (MPG). The visualization utilizes the Altair library in Python, along with data from the Vega datasets. The main component of the visualization is a bar chart that displays the average MPG for cars from different origins (e.g., USA, Europe, Japan). The bars are color-coded based on user interaction through a brushing selection mechanism.</description>
+    </item>
+    <item>
+      <title>project 2-Mapping U.S. Airports: An Interactive Exploration</title>
+      <link>http://localhost:1313/post/project-2/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-2/</guid>
+      <description>This project is an interactive data visualization that displays the locations of airports across the United States on a geographical map. It leverages the Altair library in Python and the Vega datasets to create a visually appealing and informative representation of airport locations within the country. The visualization consists of two main components: a background map and a layer of airport markers. The background map is generated using the geographical data for the states of the United States from the Vega datasets.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m Jamsher, a passionate individual with a BSc in Computer Science, eager to explore the dynamic realm of data science. With a natural inclination towards analytical thinking, I thrive on uncovering patterns and insights within vast datasets. My academic journey has equipped me with a solid foundation in technology and programming, laying the groundwork for my venture into data-driven exploration. As I delve deeper into the world of data science, each project becomes a canvas for innovation and problem-solving, where I blend theoretical knowledge with practical skills to create impactful solutions.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Github: https://github.com/NAjamsher&#xA;Instagram : https://www.instagram.com/invites/contact/?i=oina2id00x07&amp;utm_content=i4l4cfi&#xA;Contact Number: 9150668782</description>
+    </item>
+  </channel>
+</rss>

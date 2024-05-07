@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jamsher</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Projects on Jamsher</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project 1: Interactive Car Fuel Efficiency Visualization</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Wed, 10 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>This project is an interactive data visualization that explores the relationship between car origin and fuel efficiency, measured in miles per gallon (MPG). The visualization utilizes the Altair library in Python, along with data from the Vega datasets. The main component of the visualization is a bar chart that displays the average MPG for cars from different origins (e.g., USA, Europe, Japan). The bars are color-coded based on user interaction through a brushing selection mechanism.</description>
+    </item>
+    <item>
+      <title>project 2-Mapping U.S. Airports: An Interactive Exploration</title>
+      <link>http://localhost:1313/post/project-2/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-2/</guid>
+      <description>This project is an interactive data visualization that displays the locations of airports across the United States on a geographical map. It leverages the Altair library in Python and the Vega datasets to create a visually appealing and informative representation of airport locations within the country. The visualization consists of two main components: a background map and a layer of airport markers. The background map is generated using the geographical data for the states of the United States from the Vega datasets.</description>
+    </item>
+  </channel>
+</rss>
